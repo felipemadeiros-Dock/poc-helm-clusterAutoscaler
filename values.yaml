@@ -1,0 +1,2 @@
+iamRole: 'arn:aws:iam::922178132857:role/eks-cluster-autoscaler'
+nodeGroupAutoDiscovery: 'k8s.io/cluster-autoscaler/enabled'
